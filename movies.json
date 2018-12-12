@@ -1,0 +1,502 @@
+[
+  {
+    "published": "2018-11-21",
+    "pg": "PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTYyNzEyNDAzOV5BMl5BanBnXkFtZTgwNTk3NDczNjM@._V1_.jpg",
+    "actors": "John C. Reilly, Sarah Silverman, Gal Gadot, Taraji P. Henson",
+    "rating": "7.5",
+    "title": "Ralph Breaks the Internet",
+    "description": "Ralph Breaks the Internet is a movie starring John C. Reilly, Sarah Silverman, and Gal Gadot. Six years after the events of \"Wreck-It Ralph,\" Ralph and Vanellope, now friends, discover a wi-fi router in their arcade, leading them...",
+    "director": "Phil Johnston, Rich Moore"
+  },
+  {
+    "published": "2018-12-12",
+    "pg": "PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMjMzMzQ0NzI5Nl5BMl5BanBnXkFtZTgwNjc2NTY0NjM@._V1_.jpg",
+    "actors": "Shameik Moore, Jake Johnson, Hailee Steinfeld, Mahershala Ali",
+    "rating": "8.6",
+    "title": "Spider-Man: Into the Spider-Verse",
+    "description": "Spider-Man: Into the Spider-Verse is a movie starring Shameik Moore, Jake Johnson, and Hailee Steinfeld. Miles Morales becomes the Spider-Man of his reality and crosses paths with his counterparts from other dimensions to stop a...",
+    "director": "Bob Persichetti, Peter Ramsey, Rodney Rothman"
+  },
+  {
+    "published": "2018-11-09",
+    "pg": "R",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BYjRkYTI3M2EtZWQ4Ny00OTA2LWFmMTMtY2E4MTEyZmNjOTMxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_.jpg",
+    "actors": "Tim Blake Nelson, Willie Watson, Clancy Brown, Danny McCarthy",
+    "rating": "7.4",
+    "title": "The Ballad of Buster Scruggs",
+    "description": "The Ballad of Buster Scruggs is a movie starring Tim Blake Nelson, Willie Watson, and Clancy Brown. An anthology film comprising six stories, each dealing with a different aspect of life in the Old West.",
+    "director": "Ethan Coen, Joel Coen"
+  },
+  {
+    "published": "2017-03-17",
+    "pg": "TV-MA",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BNTBlNWE5NjEtMTFjOC00MzZmLTkwNWQtNzU0MzM0MTVjNTM5XkEyXkFqcGdeQXVyNjkwNzEwMzU@._V1_.jpg",
+    "actors": "Rachel Brosnahan, Tony Shalhoub, Michael Zegen, Marin Hinkle",
+    "rating": "8.7",
+    "title": "The Marvelous Mrs. Maisel",
+    "description": "The Marvelous Mrs. Maisel is a TV series starring Rachel Brosnahan, Tony Shalhoub, and Michael Zegen. A housewife in the 1950s decides to become a stand-up comic.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2018-11-08",
+    "pg": "PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BYmE5Yjg0MzktYzgzMi00YTFiLWJjYTItY2M5MmI1ODI4MDY3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "actors": "Benedict Cumberbatch, Cameron Seely, Rashida Jones, Pharrell Williams",
+    "rating": "6.4",
+    "title": "The Grinch",
+    "description": "The Grinch is a movie starring Benedict Cumberbatch, Cameron Seely, and Rashida Jones. A grumpy Grinch plots to ruin Christmas for the village of Whoville.",
+    "director": "Yarrow Cheney, Scott Mosier"
+  },
+  {
+    "published": "2018-12-25",
+    "pg": "R",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTY1NjM0MzgxMV5BMl5BanBnXkFtZTgwNDc4NTY0NjM@._V1_.jpg",
+    "actors": "Christian Bale, Amy Adams, Steve Carell, Sam Rockwell",
+    "rating": 0,
+    "title": "Vice",
+    "description": "Vice is a movie starring Christian Bale, Amy Adams, and Steve Carell. The story of Dick Cheney (Christian Bale), an unassuming bureaucratic Washington insider, who quietly wielded immense power as Vice President to George W. Bush,...",
+    "director": "Adam McKay"
+  },
+  {
+    "published": "2018-11-22",
+    "pg": "TV-PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BNTA3NjU3OTM2MV5BMl5BanBnXkFtZTgwNjQ2MzE1NjM@._V1_.jpg",
+    "actors": "Kurt Russell, Darby Camp, Judah Lewis, Oliver Hudson",
+    "rating": "7.3",
+    "title": "The Christmas Chronicles",
+    "description": "The Christmas Chronicles is a movie starring Kurt Russell, Darby Camp, and Judah Lewis. The story of sister and brother, Kate and Teddy Pierce, whose Christmas Eve plan to catch Santa Claus on camera turns into an unexpected journey...",
+    "director": "Clay Kaytis"
+  },
+  {
+    "published": "2006-05-01",
+    "pg": "TV-PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BY2FmZTY5YTktOWRlYy00NmIyLWE0ZmQtZDg2YjlmMzczZDZiXkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg",
+    "actors": "Johnny Galecki, Jim Parsons, Kaley Cuoco, Simon Helberg",
+    "rating": "8.2",
+    "title": "The Big Bang Theory",
+    "description": "The Big Bang Theory is a TV series starring Johnny Galecki, Jim Parsons, and Kaley Cuoco. A woman who moves into an apartment across the hall from two brilliant but socially awkward physicists shows them how little they know about...",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2018-11-23",
+    "pg": "R",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTg1NzQwMDQxNV5BMl5BanBnXkFtZTgwNDg2NDYyNjM@._V1_.jpg",
+    "actors": "Olivia Colman, Emma Stone, Rachel Weisz, Nicholas Hoult",
+    "rating": "8.3",
+    "title": "The Favourite",
+    "description": "The Favourite is a movie starring Olivia Colman, Emma Stone, and Rachel Weisz. In early 18th century England, a frail Queen Anne (Colman) occupies the throne and her close friend Lady Sarah (Weisz) governs the country in her stead....",
+    "director": "Yorgos Lanthimos"
+  },
+  {
+    "published": "2018-09-20",
+    "pg": "PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTc5NzI1NjY4MV5BMl5BanBnXkFtZTgwNDIxNTIyNDM@._V1_.jpg",
+    "actors": "Channing Tatum, James Corden, Zendaya, Common",
+    "rating": "6.7",
+    "title": "Smallfoot",
+    "description": "Smallfoot is a movie starring Channing Tatum, James Corden, and Zendaya. A Yeti is convinced that the elusive creatures known as \"humans\" really do exist.",
+    "director": "Karey Kirkpatrick, Jason Reisig"
+  },
+  {
+    "published": "2005-03-24",
+    "pg": "TV-PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTgzNjAzMDE0NF5BMl5BanBnXkFtZTcwNTEyMzM3OA@@._V1_.jpg",
+    "actors": "Steve Carell, Jenna Fischer, John Krasinski, Rainn Wilson",
+    "rating": "8.8",
+    "title": "The Office",
+    "description": "The Office is a TV series starring Steve Carell, Jenna Fischer, and John Krasinski. A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "1994-09-22",
+    "pg": "TV-14",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BNDVkYjU0MzctMWRmZi00NTkxLTgwZWEtOWVhYjZlYjllYmU4XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "actors": "Jennifer Aniston, Courteney Cox, Lisa Kudrow, Matt LeBlanc",
+    "rating": "8.9",
+    "title": "Friends",
+    "description": "Friends is a TV series starring Jennifer Aniston, Courteney Cox, and Lisa Kudrow. Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "1989-11-30",
+    "pg": "13",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMGZkMWQ2MzMtYTkxYS00OThmLWI0ZTQtNmY0ZTkyY2E4MjliXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+    "actors": "Chevy Chase, Beverly D'Angelo, Juliette Lewis, Johnny Galecki",
+    "rating": "7.6",
+    "title": "National Lampoon's Christmas Vacation",
+    "description": "National Lampoon's Christmas Vacation is a movie starring Chevy Chase, Beverly D'Angelo, and Juliette Lewis. The Griswold family's plans for a big family Christmas predictably turn into a big disaster.",
+    "director": "Jeremiah S. Chechik"
+  },
+  {
+    "published": "2000-11-17",
+    "pg": "PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BNWNiNTczNzEtMjQyZC00MjFmLTkzMDMtODk4ZGMyZmE0N2E4XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "actors": "Jim Carrey, Taylor Momsen, Kelley, Jeffrey Tambor",
+    "rating": "6.1",
+    "title": "How the Grinch Stole Christmas",
+    "description": "How the Grinch Stole Christmas is a movie starring Jim Carrey, Taylor Momsen, and Kelley. On the outskirts of Whoville, there lives a green, revenge-seeking Grinch who plans on ruining the Christmas holiday for all of the citizens...",
+    "director": "Ron Howard"
+  },
+  {
+    "published": "2018-08-15",
+    "pg": "13",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTYxNDMyOTAxN15BMl5BanBnXkFtZTgwMDg1ODYzNTM@._V1_.jpg",
+    "actors": "Constance Wu, Henry Golding, Michelle Yeoh, Gemma Chan",
+    "rating": "7.1",
+    "title": "Crazy Rich Asians",
+    "description": "Crazy Rich Asians is a movie starring Constance Wu, Henry Golding, and Michelle Yeoh. This contemporary romantic comedy, based on a global bestseller, follows native New Yorker Rachel Chu to Singapore to meet her boyfriend's family.",
+    "director": "Jon M. Chu"
+  },
+  {
+    "published": "2003-11-14",
+    "pg": "R",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTY4NjQ5NDc0Nl5BMl5BanBnXkFtZTYwNjk5NDM3._V1_.jpg",
+    "actors": "Hugh Grant, Martine McCutcheon, Liam Neeson, Laura Linney",
+    "rating": "7.6",
+    "title": "Love Actually",
+    "description": "Love Actually is a movie starring Hugh Grant, Martine McCutcheon, and Liam Neeson. Follows the lives of eight very different couples in dealing with their love lives in various loosely interrelated tales all set during a frantic...",
+    "director": "Richard Curtis"
+  },
+  {
+    "published": "2018-11-16",
+    "pg": "13",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMjMyNzExNzQ5OV5BMl5BanBnXkFtZTgwNjM2MjIxNjM@._V1_.jpg",
+    "actors": "Viggo Mortensen, Mahershala Ali, Linda Cardellini, Sebastian Maniscalco",
+    "rating": "8.3",
+    "title": "Green Book",
+    "description": "Green Book is a movie starring Viggo Mortensen, Mahershala Ali, and Linda Cardellini. A working-class Italian-American bouncer becomes the driver of an African-American classical pianist on a tour of venues through the 1960s...",
+    "director": "Peter Farrelly"
+  },
+  {
+    "published": "2016-09-20",
+    "pg": "TV-14",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BZGY3MDk3ZWYtNjA1YS00NzFhLWIxMTctOTZhOWVhZjE2Mjk0XkEyXkFqcGdeQXVyNjMxNzcwOTI@._V1_.jpg",
+    "actors": "Milo Ventimiglia, Mandy Moore, Sterling K. Brown, Chrissy Metz",
+    "rating": "8.7",
+    "title": "This Is Us",
+    "description": "This Is Us is a TV series starring Milo Ventimiglia, Mandy Moore, and Sterling K. Brown. A heartwarming and emotional story about a unique set of triplets, their struggles, and their wonderful parents.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2018-06-21",
+    "pg": "R",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BYjY0NTA5MGItNDU1Yy00ZmE3LWI5NGItZDY5OGUxZjYzZGQ5XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "actors": "Andrew Garfield, Riley Keough, Topher Grace, Callie Hernandez",
+    "rating": "6.6",
+    "title": "Under the Silver Lake",
+    "description": "Under the Silver Lake is a movie starring Andrew Garfield, Riley Keough, and Topher Grace. Sam, intelligent but without purpose, finds a mysterious woman swimming in his apartment's pool one night. The next morning, she disappears....",
+    "director": "David Robert Mitchell"
+  },
+  {
+    "published": "2015-12-18",
+    "pg": "TV-MA",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMjhiNTZhNGEtYTRhNS00NGZlLWIxNjktYzI0NDAyMTQ0NzY3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_.jpg",
+    "actors": "Bill Burr, Laura Dern, Justin Long, Debi Derryberry",
+    "rating": "8.0",
+    "title": "F Is for Family",
+    "description": "F Is for Family is a TV series starring Bill Burr, Laura Dern, and Justin Long. Follow the Murphy family back to the 1970s, when kids roamed wild, beer flowed freely and nothing came between a man and his TV.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2018-12-07",
+    "pg": "13",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMDMyNzQyMjgtZTM2NS00ZjQwLThjYTMtZDlhOTNhNTMzNTkwXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
+    "actors": "Danielle Macdonald, Jennifer Aniston, Odeya Rush, Maddie Baillio",
+    "rating": "7.0",
+    "title": "Dumplin'",
+    "description": "Dumplin' is a movie starring Danielle Macdonald, Jennifer Aniston, and Odeya Rush. Willowdean ('Dumplin'), the plus-size teenage daughter of a former beauty queen, signs up for her mom's Miss Teen Bluebonnet pageant as a protest...",
+    "director": "Anne Fletcher"
+  },
+  {
+    "published": "2016-09-19",
+    "pg": "TV-PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BZTc2ZDQ1ODMtNDZlYS00ZmEyLThlOTQtNjg0MGFlZjkzYjhlXkEyXkFqcGdeQXVyODUxOTU0OTg@._V1_.jpg",
+    "actors": "Kristen Bell, William Jackson Harper, Jameela Jamil, D'Arcy Carden",
+    "rating": "8.1",
+    "title": "The Good Place",
+    "description": "The Good Place is a TV series starring Kristen Bell, William Jackson Harper, and Jameela Jamil. Four people and their otherworldly frienemy struggle in the afterlife to define what it means to be good.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2003-11-07",
+    "pg": "PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMzUxNzkzMzQtYjIxZC00NzU0LThkYTQtZjNhNTljMTA1MDA1L2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "actors": "Will Ferrell, James Caan, Bob Newhart, Zooey Deschanel",
+    "rating": "6.9",
+    "title": "Elf",
+    "description": "Elf is a movie starring Will Ferrell, James Caan, and Bob Newhart. After inadvertently wreaking havoc on the elf community due to his ungainly size, a man raised as an elf at the North Pole is sent to the U.S. in search of his true...",
+    "director": "Jon Favreau"
+  },
+  {
+    "published": "2011-01-09",
+    "pg": "TV-MA",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMjM5MzAzNTQyOV5BMl5BanBnXkFtZTgwNjY0MjcyNjM@._V1_.jpg",
+    "actors": "Emmy Rossum, William H. Macy, Ethan Cutkosky, Shanola Hampton",
+    "rating": "8.7",
+    "title": "Shameless",
+    "description": "Shameless is a TV series starring Emmy Rossum, William H. Macy, and Ethan Cutkosky. A scrappy, fiercely loyal Chicago family makes no apologies.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2018-09-19",
+    "pg": "PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTk1MzM1ODEwOV5BMl5BanBnXkFtZTgwMTE0OTA4NTM@._V1_.jpg",
+    "actors": "Jack Black, Cate Blanchett, Owen Vaccaro, Kyle MacLachlan",
+    "rating": "6.1",
+    "title": "The House with a Clock in Its Walls",
+    "description": "The House with a Clock in Its Walls is a movie starring Jack Black, Cate Blanchett, and Owen Vaccaro. A young orphan named Lewis Barnavelt aids his magical uncle in locating a clock with the power to bring about the end of the world.",
+    "director": "Eli Roth"
+  },
+  {
+    "published": "2018-11-16",
+    "pg": "13",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTkzMzgzMTc1OF5BMl5BanBnXkFtZTgwNjQ4MzE0NjM@._V1_.jpg",
+    "actors": "Mark Wahlberg, Rose Byrne, Isabela Moner, Gustavo Quiroz",
+    "rating": "7.6",
+    "title": "Instant Family",
+    "description": "Instant Family is a movie starring Mark Wahlberg, Rose Byrne, and Isabela Moner. A couple find themselves in over their heads when they foster three children.",
+    "director": "Sean Anders"
+  },
+  {
+    "published": "2017-11-07",
+    "pg": "TV-MA",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMWRjZjgxM2UtNjg2OC00ZDExLWI4YWQtNWUyMDQ2YjI1YzgzXkEyXkFqcGdeQXVyMTkzODUwNzk@._V1_.jpg",
+    "actors": "Rupert Grint, Nick Frost, Pippa Bennett-Warner, Marama Corlett",
+    "rating": "6.8",
+    "title": "Sick Note",
+    "description": "Sick Note is a TV series starring Rupert Grint, Nick Frost, and Pippa Bennett-Warner. When Daniel Glass is misdiagnosed with a fatal disease he begins to notice how everyone around him treats him better, so he decides to keep...",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2003-09-23",
+    "pg": "TV-14",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BYmJmNDM4NzAtMWViMy00MDU0LWI5M2YtNzYxY2VlMTBiODM5XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg",
+    "actors": "Mark Harmon, David McCallum, Pauley Perrette, Sean Murray",
+    "rating": "7.9",
+    "title": "NCIS: Naval Criminal Investigative Service",
+    "description": "NCIS: Naval Criminal Investigative Service is a TV series starring Mark Harmon, David McCallum, and Pauley Perrette. The cases of the Naval Criminal Investigative Service's Washington, D.C. Major Case Response Team, led by Special...",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2009-09-22",
+    "pg": "TV-PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTU2NTU3OTE5NF5BMl5BanBnXkFtZTgwMDAzMjE1NjM@._V1_.jpg",
+    "actors": "Ed O'Neill, Sof\u00eda Vergara, Julie Bowen, Ty Burrell",
+    "rating": "8.4",
+    "title": "Modern Family",
+    "description": "Modern Family is a TV series starring Ed O'Neill, Sof\u00eda Vergara, and Julie Bowen. Three different but related families face trials and tribulations in their own uniquely comedic ways.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "1997-08-13",
+    "pg": "TV-MA",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BOGE2YWUzMDItNTg2Ny00NTUzLTlmZGYtNWMyNzVjMjQ3MThkXkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_.jpg",
+    "actors": "Trey Parker, Matt Stone, Isaac Hayes, Mona Marshall",
+    "rating": "8.7",
+    "title": "South Park",
+    "description": "South Park is a TV series starring Trey Parker, Matt Stone, and Isaac Hayes. Follows the misadventures of four irreverent grade-schoolers in the quiet, dysfunctional town of South Park, Colorado.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2018-06-13",
+    "pg": "PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTEzNzY0OTg0NTdeQTJeQWpwZ15BbWU4MDU3OTg3MjUz._V1_.jpg",
+    "actors": "Craig T. Nelson, Holly Hunter, Sarah Vowell, Huck Milner",
+    "rating": "7.9",
+    "title": "Incredibles 2",
+    "description": "Incredibles 2 is a movie starring Craig T. Nelson, Holly Hunter, and Sarah Vowell. Bob Parr (Mr. Incredible) is left to care for the kids while Helen (Elastigirl) is out saving the world.",
+    "director": "Brad Bird"
+  },
+  {
+    "published": "2013-09-17",
+    "pg": "TV-14",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BNDc3NzQxODAwOV5BMl5BanBnXkFtZTgwODkwMjU2MzI@._V1_.jpg",
+    "actors": "Andre Braugher, Andy Samberg, Stephanie Beatriz, Terry Crews",
+    "rating": "8.4",
+    "title": "Brooklyn Nine-Nine",
+    "description": "Brooklyn Nine-Nine is a TV series starring Andre Braugher, Andy Samberg, and Stephanie Beatriz. Jake Peralta, an immature, but talented N.Y.P.D. detective in Brooklyn's 99th Precinct, comes into immediate conflict with his new...",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2018-12-21",
+    "pg": "13",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMjIxMjUwMjItMGIxYS00NTlmLTgxZTQtMzg2Yjc1ZWQ3YTYxXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_.jpg",
+    "actors": "Eiza Gonz\u00e1lez, Steve Carell, Janelle Mon\u00e1e, Diane Kruger",
+    "rating": 0,
+    "title": "Welcome to Marwen",
+    "description": "Welcome to Marwen is a movie starring Eiza Gonz\u00e1lez, Steve Carell, and Janelle Mon\u00e1e. A victim of a brutal attack finds a unique and beautiful therapeutic outlet to help him through his recovery process.",
+    "director": "Robert Zemeckis"
+  },
+  {
+    "published": "1990-11-16",
+    "pg": "PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMzFkM2YwOTQtYzk2Mi00N2VlLWE3NTItN2YwNDg1YmY0ZDNmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "actors": "Macaulay Culkin, Joe Pesci, Daniel Stern, John Heard",
+    "rating": "7.5",
+    "title": "Home Alone",
+    "description": "Home Alone is a movie starring Macaulay Culkin, Joe Pesci, and Daniel Stern. An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas...",
+    "director": "Chris Columbus"
+  },
+  {
+    "published": "2019-07-26",
+    "pg": 18,
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTc3ODIwNzA2NF5BMl5BanBnXkFtZTgwMTUzMjA4NTM@._V1_.jpg",
+    "actors": "Margot Robbie, Kurt Russell, Leonardo DiCaprio, Brad Pitt",
+    "rating": 0,
+    "title": "Once Upon a Time in Hollywood",
+    "description": "Once Upon a Time in Hollywood is a movie starring Margot Robbie, Kurt Russell, and Leonardo DiCaprio. A faded TV actor and his stunt double embark on an odyssey to make a name for themselves in the film industry during the Helter...",
+    "director": "Quentin Tarantino"
+  },
+  {
+    "published": "2018-11-16",
+    "pg": "TV-MA",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMjUzNDU1MDM0NF5BMl5BanBnXkFtZTgwOTM5NzI1NjM@._V1_.jpg",
+    "actors": "Michael Douglas, Alan Arkin, Sarah Baker, Nancy Travis",
+    "rating": "8.3",
+    "title": "The Kominsky Method",
+    "description": "The Kominsky Method is a TV series starring Michael Douglas, Alan Arkin, and Sarah Baker. An aging actor, who long ago enjoyed a brush with fame, makes his living as an acting coach.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2018-05-15",
+    "pg": "R",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BNjk1Njk3YjctMmMyYS00Y2I4LThhMzktN2U0MTMyZTFlYWQ5XkEyXkFqcGdeQXVyODM2ODEzMDA@._V1_.jpg",
+    "actors": "Ryan Reynolds, Josh Brolin, Morena Baccarin, Julian Dennison",
+    "rating": "7.8",
+    "title": "Deadpool 2",
+    "description": "Deadpool 2 is a movie starring Ryan Reynolds, Josh Brolin, and Morena Baccarin. Foul-mouthed mutant mercenary Wade Wilson (AKA. Deadpool), brings together a team of fellow mutant rogues to protect a young boy with supernatural...",
+    "director": "David Leitch"
+  },
+  {
+    "published": "2016-04-01",
+    "pg": "TV-MA",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTYxOTU5ODE0OV5BMl5BanBnXkFtZTgwNzM0MzQ1MDI@._V1_.jpg",
+    "actors": "Ashton Kutcher, Debra Winger, Sam Elliott, Grady Lee Richmond",
+    "rating": "7.6",
+    "title": "The Ranch",
+    "description": "The Ranch is a TV series starring Ashton Kutcher, Debra Winger, and Sam Elliott. The son of a Colorado rancher returns home from a semi-pro football career to run the family business.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "1983-11-18",
+    "pg": "PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BOWMyNjE0MzEtMzVjNy00NjIxLTg0ZjMtMWJhNGI1YmVjYTczL2ltYWdlXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_.jpg",
+    "actors": "Peter Billingsley, Melinda Dillon, Darren McGavin, Scott Schwartz",
+    "rating": "8.0",
+    "title": "A Christmas Story",
+    "description": "A Christmas Story is a movie starring Peter Billingsley, Melinda Dillon, and Darren McGavin. In the 1940s, a young boy named Ralphie attempts to convince his parents, his teacher and Santa that a Red Ryder BB gun really is the...",
+    "director": "Bob Clark"
+  },
+  {
+    "published": "2018-08-22",
+    "pg": "R",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BOTRjMTczMGItMmYxMi00ZThlLTg2ZjAtODgyZTNkN2VmMDlhXkEyXkFqcGdeQXVyNzQwNjY4NTg@._V1_.jpg",
+    "actors": "Melissa McCarthy, Elizabeth Banks, Maya Rudolph, Leslie David Baker",
+    "rating": "5.3",
+    "title": "The Happytime Murders",
+    "description": "The Happytime Murders is a movie starring Melissa McCarthy, Elizabeth Banks, and Maya Rudolph. When the puppet cast of a '90s children's TV show begin to get murdered one by one, a disgraced LAPD detective-turned-private eye puppet...",
+    "director": "Brian Henson"
+  },
+  {
+    "published": "2017-11-17",
+    "pg": "TV-PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BNWMzZTE4NTYtOGRiNi00YzQ2LWJiNjctMzk1NDU4NmY5ZGQwXkEyXkFqcGdeQXVyODIyMzA4NDc@._V1_.jpg",
+    "actors": "Rose McIver, Ben Lamb, Alice Krige, Honor Kneafsey",
+    "rating": "5.7",
+    "title": "A Christmas Prince",
+    "description": "A Christmas Prince is a movie starring Rose McIver, Ben Lamb, and Alice Krige. When a reporter goes undercover as a tutor to get the inside scoop on a playboy prince, she gets tangled in some royal intrigue and ends up finding love...",
+    "director": "Alex Zamm"
+  },
+  {
+    "published": "1989-12-17",
+    "pg": "TV-PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BYjFkMTlkYWUtZWFhNy00M2FmLThiOTYtYTRiYjVlZWYxNmJkXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "actors": "Dan Castellaneta, Nancy Cartwright, Harry Shearer, Julie Kavner",
+    "rating": "8.7",
+    "title": "The Simpsons",
+    "description": "The Simpsons is a TV series starring Dan Castellaneta, Nancy Cartwright, and Harry Shearer. The satiric adventures of a working-class family in the misfit city of Springfield.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2018-10-04",
+    "pg": "R",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BNDQ4Y2E5ODktODI5ZS00ZGVkLTgyZTEtNWY1ZjNiZTFjOTE3XkEyXkFqcGdeQXVyODY3Nzc0OTk@._V1_.jpg",
+    "actors": "Matt Dillon, Bruno Ganz, Uma Thurman, Siobhan Fallon Hogan",
+    "rating": "7.4",
+    "title": "The House That Jack Built",
+    "description": "The House That Jack Built is a movie starring Matt Dillon, Bruno Ganz, and Uma Thurman. The story follows Jack, a highly intelligent serial killer, over the course of twelve years, and depicts the murders that really develop his...",
+    "director": "Lars von Trier"
+  },
+  {
+    "published": "2018-07-04",
+    "pg": "13",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "actors": "Paul Rudd, Evangeline Lilly, Michael Pe\u00f1a, Walton Goggins",
+    "rating": "7.2",
+    "title": "Ant-Man and the Wasp",
+    "description": "Ant-Man and the Wasp is a movie starring Paul Rudd, Evangeline Lilly, and Michael Pe\u00f1a. As Scott Lang balances being both a Super Hero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man...",
+    "director": "Peyton Reed"
+  },
+  {
+    "published": "2017-09-25",
+    "pg": "TV-PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BZDg3MGNhYjItZGU2Yi00MzU4LWE4NGUtYjA2OTVjNGUyMjE4XkEyXkFqcGdeQXVyNjg4NzAyOTA@._V1_.jpg",
+    "actors": "Iain Armitage, Zoe Perry, Lance Barber, Montana Jordan",
+    "rating": "7.2",
+    "title": "Young Sheldon",
+    "description": "Young Sheldon is a TV series starring Iain Armitage, Zoe Perry, and Lance Barber. Meet a child genius named Sheldon Cooper; (already seen as an adult in The Big Bang Theory (2007)) and his family. Some unique challenges face Sheldon...",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2018-09-12",
+    "pg": "R",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BZjFiMGNiNmItMzNiNi00Mjc1LTg1N2YtNWE2NTE5N2VlZTQ3XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+    "actors": "Anna Kendrick, Blake Lively, Henry Golding, Andrew Rannells",
+    "rating": "7.1",
+    "title": "A Simple Favor",
+    "description": "A Simple Favor is a movie starring Anna Kendrick, Blake Lively, and Henry Golding. Stephanie is a single mother with a parenting vlog who befriends Emily, a secretive upper-class woman who has a child at the same elementary school....",
+    "director": "Paul Feig"
+  },
+  {
+    "published": "2011-06-23",
+    "pg": "TV-14",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMTk1MjYzOTU2Nl5BMl5BanBnXkFtZTgwMzAxMTg5MTE@._V1_.jpg",
+    "actors": "Gabriel Macht, Patrick J. Adams, Meghan Markle, Sarah Rafferty",
+    "rating": "8.6",
+    "title": "Suits",
+    "description": "Suits is a TV series starring Gabriel Macht, Patrick J. Adams, and Meghan Markle. On the run from a drug deal gone bad, Mike Ross, a brilliant college dropout, finds himself a job working with Harvey Specter, one of New York City's...",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2017-09-29",
+    "pg": "TV-MA",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BNjUxODY4ODMzNF5BMl5BanBnXkFtZTgwNDQ4Nzk1NjM@._V1_.jpg",
+    "actors": "Nick Kroll, John Mulaney, Fred Armisen, Jessi Klein",
+    "rating": "8.1",
+    "title": "Big Mouth",
+    "description": "Big Mouth is a TV series starring Nick Kroll, John Mulaney, and Fred Armisen. Teenage friends find their lives upended by the wonders and horrors of puberty.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2011-01-09",
+    "pg": "TV-PG",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BZGJiNmM1NDctNWUxYS00YzE4LWJjNTgtYTJhYzE0NjFmMTMwXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_.jpg",
+    "actors": "H. Jon Benjamin, Dan Mintz, Eugene Mirman, John Roberts",
+    "rating": "8.1",
+    "title": "Bob's Burgers",
+    "description": "Bob's Burgers is a TV series starring H. Jon Benjamin, Dan Mintz, and Eugene Mirman. Bob Belcher, along with his wife and 3 children, try to run their last hope of holding the family together, which is running Bob's dream restaurant.",
+    "director": "gall ANonim"
+  },
+  {
+    "published": "2018-12-02",
+    "pg": "TV-14",
+    "cover_url": "https://m.media-amazon.com/images/M/MV5BMzE3ODUxNjcwMF5BMl5BanBnXkFtZTgwMTExNTU3NjM@._V1_.jpg",
+    "actors": "Tyra Banks, Francia Raisa, Gavin Stenhouse, Hank Chen",
+    "rating": "5.3",
+    "title": "Life-Size 2",
+    "description": "Life-Size 2 is a TV movie starring Tyra Banks, Francia Raisa, and Gavin Stenhouse. Grace is a hot mess in the middle of a quarter-life crisis, realizing that she is in over her head as a toy company's CEO. To make it worse, her...",
+    "director": "Steven K. Tsuchida"
+  }
+]
